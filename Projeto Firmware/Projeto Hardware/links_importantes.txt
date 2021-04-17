@@ -1,0 +1,2 @@
+link fala sobre o modulo mcp2515
+https://www.electronicshub.org/arduino-mcp2515-can-bus-tutorial/
